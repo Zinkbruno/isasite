@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+    font-size: 20em;
+}
+body{
+    background-color: pink;
+    background-image: url(https://images.vexels.com/content/283701/preview/solid-pink-heart-4704a7.png);
+}
+img{
+    max-width:  800px;
+    max-height: 800px;
+}
+p{
+    font-size: 10em;
+    justify-content: center;
+    text-align: center;
+}
